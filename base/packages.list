@@ -1,0 +1,46 @@
+# Core
+tealdeer
+zip
+7zip
+eza
+bat
+fzf
+zoxide
+fd
+jq
+neovim
+fish
+starship
+docker
+docker-compose
+docker-buildx
+ufw-docker
+
+# Desktop
+noctalia
+noctalia-greeter
+ddcutil
+xdg-desktop-portal-gtk
+gnome-keyring
+wl-clipboard
+playerctl
+brightnessctl
+qt6-wayland
+nautilus
+gvfs-mtp
+adw-gtk-theme
+nwg-look
+noto-fonts-extra
+ttf-jetbrains-mono-nerd
+
+# Apps
+ghostty
+google-chrome
+zen-browser-bin
+discord
+spotify-launcher
+yaak-bin
+localsend-bin
+obsidian
+visual-studio-code-bin
+wireguard-tools
